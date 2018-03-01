@@ -1,0 +1,21 @@
+{
+  "name": "electron-ex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "1.8.2"
+  },
+  "dependencies": {
+    "electron-compile": "^6.4.2",
+    "electron-packager": "^11.0.1",
+    "electron-squirrel-startup": "^1.0.0",
+    "electron-winstaller": "^2.6.4"
+  }
+}
