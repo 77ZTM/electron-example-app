@@ -20,7 +20,9 @@ Things you need:
 ### in the git console type:
 
 > $ git clone https://github.com/77ZTM/electron-example-app.git
+
 > $ cd electron-example-app
+
 > $ npm start
 
 Those commands should open a window
